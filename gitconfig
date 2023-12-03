@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = delphine.abouab@outlook.fr
+	name = Delphine Abouab
